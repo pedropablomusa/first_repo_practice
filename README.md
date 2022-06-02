@@ -1,2 +1,2 @@
-# first_repo_practice
-FIrst repository for some nice practice
+# Words of Advice
+Life is a marathon, not a sprint.
